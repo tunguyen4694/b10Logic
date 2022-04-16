@@ -22,7 +22,7 @@ import Foundation
 //soNguyenTo()
 
 // BT5:
-//minMax()
+minMax()
 
 // BT6:
 //insertX()
@@ -31,5 +31,5 @@ import Foundation
 //doiXung()
 
 // BT8:
-dayDate()
+//dayDate()
 
